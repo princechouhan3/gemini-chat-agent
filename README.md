@@ -12,7 +12,7 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 
 
 # Setup Instructions:
-1)Clone the repo:
+1) Clone the repo:
 
 
 python -m venv venv
