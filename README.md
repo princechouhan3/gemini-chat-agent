@@ -1,3 +1,4 @@
+![AI-Agent](https://github.com/user-attachments/assets/b1fc1421-fcd8-486f-80dd-60a3e57dbc11)
 # AI Task Agent with Gemini & Streamlit
 
 This project is an intelligent, conversational AI agent built with [Google's Gemini API](https://ai.google.dev/) and a simple [Streamlit](https://streamlit.io/) interface. Users can ask questions or issue commands, and the agent responds using Google's powerful generative models.
