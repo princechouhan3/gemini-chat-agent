@@ -21,6 +21,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 2) Create Virtual Environment:
 
 git clone https://github.com/your-username/ai-task-agent.git
+
 cd ai-task-agent
 
 
