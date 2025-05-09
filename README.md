@@ -20,9 +20,6 @@ streamlit run app.py
 
 
 
-#Setup Instructions
-
-
 
 
 
