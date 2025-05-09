@@ -11,6 +11,14 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 - Extensible: plug in additional tools or logic
 
 
-# Setup Instructions
+# Setup Instructions:
+## Create Virtual Environment:
+```bash
+git clone https://github.com/your-username/ai-task-agent.git
+cd ai-task-agent
 
+
+## Install depedencies:
+## Set your .env file:
+## Run the app:
 
