@@ -15,8 +15,14 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 1) Clone the repo:
 
 
+
+
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+
+
+
 
 2) Create Virtual Environment:
 
@@ -25,14 +31,24 @@ git clone https://github.com/your-username/ai-task-agent.git
 cd ai-task-agent
 
 
+
+
+
 3) Install depedencies:
 
 pip install -r requirements.txt
+
+
+
+
 
 4) Set your .env file:
 
 Create a .env file and add your Gemini API key:
 "GOOGLE_API_KEY=your_gemini_api_key_here"
+
+
+
 
 
 5) Run the app:
