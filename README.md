@@ -10,9 +10,4 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 - Secure API key handling with `.env`
 - Extensible: plug in additional tools or logic
 
-## Demo
-
-> Run it locally:
-```bash
-streamlit run app.py
 
