@@ -15,27 +15,3 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 > Run it locally:
 ```bash
 streamlit run app.py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
