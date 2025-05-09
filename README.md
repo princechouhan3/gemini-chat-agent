@@ -8,7 +8,6 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 - Conversational AI with Gemini 1.5 Flash
 - Task-oriented agent behavior
 - Lightweight Streamlit frontend
-- Secure API key handling with `.env`
 - Extensible: plug in additional tools or logic
 
 
