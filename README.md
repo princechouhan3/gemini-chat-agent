@@ -11,6 +11,6 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 - Extensible: plug in additional tools or logic
 
 
-#Setup Intructions
+# Setup Instructions
 
 
