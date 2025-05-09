@@ -17,3 +17,34 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 streamlit run app.py
 
 
+
+
+
+#Setup Instructions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
