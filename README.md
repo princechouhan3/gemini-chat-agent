@@ -11,9 +11,6 @@ This project is an intelligent, conversational AI agent built with [Google's Gem
 - Extensible: plug in additional tools or logic
 
 
-## Deployed Link:
-https://princechouhan3-gemini-chat-agent-app-phfqyd.streamlit.app/
-
 # Setup Instructions:
 1) Clone the repo:
 
